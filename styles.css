@@ -1,0 +1,67 @@
+*{
+    background-color:#f29bd3;
+   	padding: 0 15;
+	border: 0;
+}
+
+main{
+    font-size:35px;
+    font-style:oblique;
+}
+
+.hope{
+    color:#016d64;
+    font-size:100px;
+}
+
+#joke{
+    text-align:center;
+    margin:auto;
+    /*font:center;*/
+    font-size:100px;
+    font-style:oblique;
+}
+
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+#color1{
+    background-color:rgb(66, 25, 131); 
+    color:#0ee20b
+}
+
+#color2{
+    background-color:yellow;
+    color:#e8670b;
+}
+
+#color3{
+    background-color: seagreen;
+    color:crimson;
+}
+
+q{
+    font-style:italic;
+    font-size:90px
+}
+
+div{
+    text-align:center;
+    margin:auto;    
+}
+
+#rd{
+    color:blue;
+    font-size:25px;
+}
+
+a:visited{
+    color:blue;
+}
+a:hover{
+    color:red;
+}
