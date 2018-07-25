@@ -59,21 +59,21 @@ q{
 .pic{
     text-align:center;
     margin:25px 630px;
-    padding: 15px; 15px;
+    padding: 15px; 
     border-radius: 5px;
     box-shadow: 0 3px 6px rgba(0,0,0, 0.9)
      
 }
-div{
+/*div{
     /*text-align:center;
     margin:auto;
     /*margin: 0 0 30px
     width: 100%;
     max-width: 100%;
     border-radius: 5px;
-    box-shadow: 0 3px 6px rgba(0,0,0, 0.9) */
+    box-shadow: 0 3px 6px rgba(0,0,0, 0.9) 
 
-}
+/}*/
 
 #rd{
     color:blue;
